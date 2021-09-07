@@ -1,7 +1,7 @@
 ---
 Name: Shirley Radig
 Voice: Sopran
-Image: susanna.jpg
+Image: shirley.jpg
 ---
 
 In Kürze gibt es hier mehr zu lesen.
